@@ -10,6 +10,8 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 
+pip install -r requirements.txt
+
 
 def main():
   st.title('Find the Largest Number!')
